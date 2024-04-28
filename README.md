@@ -1,5 +1,13 @@
 ### Hi there 👋
+**15-year-old small software developer from JP**
 
+ (Sigma second account)
+
+- 🌱 I’m currently learning C#, C++, x86 assembly, python.
+- 📫 How to reach me: IDK
+- ⚡ Fun fact: im stupid
+
+ 
 <!--
 **KTdayo2nd/KTdayo2nd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
