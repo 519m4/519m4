@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning C#, C++, x86 assembly, python.
 - 📫 How to reach me: IDK
-- ⚡ Fun fact: [First account](https://github.com/KTxXxX0828)
+- ⚡ First account: [First account](https://github.com/KTxXxX0828)
 
  
 <!--
