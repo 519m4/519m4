@@ -1,11 +1,12 @@
 ### Hi there 👋
 **15-year-old small software developer from JP**
 
- (Sigma second account)
+ (nrhx second account)
 
-- 🌱 I’m currently learning C#, C++, x86 assembly, python.
+- 🌱 I’m currently learning C#, C++/C, x86 assembly, python(LOL).
 - 📫 How to reach me: IDK
-- ⚡ First account: [First account](https://github.com/KTxXxX0828)
+- ⚡ First account: [Account](https://github.com/KTxXxX0828)
+- idontlikeit
 
  
 <!--
