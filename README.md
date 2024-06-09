@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning C#, C++/C, x86 assembly, python(LOL).
 - 📫 How to reach me: IDK
 - ⚡ First account: [Account](https://github.com/KTxXxX0828)
-- idontlikeit
+- 💻 Main lang:C#
 
  
 <!--
