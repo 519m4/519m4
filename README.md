@@ -5,8 +5,10 @@
 
 - 🌱 I’m currently learning C#, C++/C, x86 assembly, python(LOL).
 - 📫 How to reach me: IDK
-- ⚡ First account: [Account](https://github.com/KTxXxX0828)
+- ⚡ Fun fact?: I started programming when I was 11 years old.
 - 💻 Main lang:C#
+- ❎ I am **not** open src dev.
+- 😄 Pronouns: nrhx, kt, sigma
 ### lang
 ![](https://img.shields.io/badge/-Clang-00599C.svg?logo=C&style=flat)
 ![](https://img.shields.io/badge/-C++-00599C.svg?logo=C%2B%2B&style=flat)
@@ -20,7 +22,13 @@
 ![](https://img.shields.io/badge/-Windows11-00599C.svg?logo=windows11&style=flat)
 ![](https://img.shields.io/badge/-Windows10-00599C.svg?logo=windows10&style=flat)
 ![](https://img.shields.io/badge/-WindowsXP-00599C.svg?logo=windowsxp&style=flat)
+![](https://img.shields.io/badge/-WindowsVista-00599C.svg?logo=windowsxp&style=flat)
 ![](https://img.shields.io/badge/-Android-00599C.svg?logo=android&style=flat)
+### Tools
+![](https://img.shields.io/badge/-Visualstudio2022,2017-00599C.svg?logo=visualstudio&style=flat)
+![](https://img.shields.io/badge/-VScode-00599C.svg?logo=visual%20studio%20code&style=flat)
+![](https://img.shields.io/badge/-Spotify-00599C.svg?logo=Spotify&style=flat)
+![](https://img.shields.io/badge/-Amazon-00599C.svg?logo=amazon&style=flat)
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{NrhX}/count.svg" /></p> 
  
 <!--
