@@ -29,8 +29,13 @@
 ![](https://img.shields.io/badge/-VScode-00599C.svg?logo=visual%20studio%20code&style=flat)
 ![](https://img.shields.io/badge/-Spotify-00599C.svg?logo=Spotify&style=flat)
 ![](https://img.shields.io/badge/-Amazon-00599C.svg?logo=amazon&style=flat)
+ ### PC
+ - CPU: i3 9100 3.60Ghz
+ - Memory: 32GB DDR4
+ - GPU: NO LOL!
+ - Strage: 256GB NVMe SSD, 128GB SATA SSD, 500GB HDD
+ - OS: Win11
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{NrhX}/count.svg" /></p> 
- 
 <!--
 **KTdayo2nd/KTdayo2nd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
