@@ -1,1 +1,6 @@
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{NrhX}/count.svg" /></p> 
+<h1 align="center">Yo</h1>
+I'm nerd kids from jp
+
+### I'm interesting for:
+
+ - Cryptography algorithms
